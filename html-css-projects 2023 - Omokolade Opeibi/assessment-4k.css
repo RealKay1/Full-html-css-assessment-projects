@@ -1,0 +1,44 @@
+.One.button {
+  color: white;
+  background-color: green;
+  border: none;
+  font-size: 23px;
+  padding: 14px 26px;
+  margin-right: 15px;
+  cursor: pointer;
+  transition: 0.30s;
+}
+
+.One.button:hover {
+  width: 115px;
+}
+
+.Two.button {
+  color: white;
+  background-color: green;
+  border: none;
+  font-size: 23px;
+  padding: 14px 26px;
+  cursor: pointer;
+  transition: 0.30s;
+}
+
+.Two.button:hover {
+  width: 115px;
+}
+
+
+.Three.button {
+  color: white;
+  background-color: green;
+  border: none;
+  font-size: 23px;
+  padding: 14px 26px;
+  margin-left: 15px;
+  cursor: pointer;
+  transition: 0.30s;
+}
+
+.Three.button:hover {
+  width: 115px;
+}

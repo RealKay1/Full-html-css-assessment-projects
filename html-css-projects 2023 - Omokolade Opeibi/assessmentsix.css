@@ -1,0 +1,19 @@
+p {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+  .Model3.p {
+    font-size: 45px;
+    font-weight: bold;
+  }
+
+  .Orderonline.p {
+    font-size: 25px;
+  }
+
+  .Touchless.link {
+   text-decoration: underline;
+  }

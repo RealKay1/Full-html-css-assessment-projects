@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Grid Practice
+    </title>
+  </head>
+  <body style="padding-bottom: 1000px;">
+    <div style="
+      display: grid;
+      grid-template-columns: 100px 100px;
+      font-family: Arial;
+      font-size: 20px;">
+      <div style="background-color: grey;">div 1</div>
+      <div style="background-color: orange;">div 2<p>Text</p></div>
+    </div>
+
+      <div style="
+      display: grid;
+      grid-template-columns: 100px 100px 200px;
+      font-family: Arial;
+      font-size: 20px;
+      margin-top: 30px;">
+      <div style="background-color: grey;">100px</div>
+      <div style="background-color: orange;">100px<p>Text</p></div>
+      <div style="background-color: grey;">200px</div>
+      <div style="background-color: orange;">100px</div>
+    </div>
+
+      <div style="
+      display: grid;
+      grid-template-columns: 100px 1fr;
+      font-family: Arial;
+      font-size: 20px;
+      margin-top: 30px;">
+      <div style="background-color: grey;">100px</div>
+      <div style="background-color: orange;">1fr</div>
+    </div>
+
+      <div style="
+      display: grid;
+      grid-template-columns: 100px 1fr 2fr;
+      font-family: Arial;
+      font-size: 20px;
+      margin-top: 30px;">
+      <div style="background-color: grey;">100px</div>
+      <div style="background-color: orange;">1fr</div>
+      <div style="background-color: grey;">2fr</div>
+    </div>
+
+    <div style="
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      column-gap: 20px;
+      row-gap: 40px;
+      font-family: Arial;
+      font-size: 20px;
+      margin-top: 30px;">
+      <div style="background-color: grey;
+      height: 200px;">1fr</div>
+      <div style="background-color: orange;
+      height: 200px;">1fr</div>
+      <div style="background-color: grey;
+      height: 200px;">1fr</div>
+      <div style="background-color: orange;
+      height: 200px;">1fr</div>
+      <div style="background-color: grey;
+      height: 200px;">1fr</div>
+      <div style="background-color: orange;
+      height: 200px;">1fr</div>
+    </div>
+
+  </body>
+</html>

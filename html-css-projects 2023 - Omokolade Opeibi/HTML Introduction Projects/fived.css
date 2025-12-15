@@ -1,0 +1,22 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.Shoppingbusiness.p {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  }
+
+.Applehelp.p {
+  font-size: 25px;
+  margin-bottom: 20px;
+  }
+
+  .Learnmore.p {
+    color: rgb(61, 166, 232);
+    font-size: 25px;
+  }

@@ -1,0 +1,43 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.New.p {
+color: orange;
+font-size: 20px;
+text-align: center;
+font-family: Arial;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.MacBook.p {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.Supercharged.p {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.From1999.p {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.Buy.button {
+  background: rgb(17, 118, 206);
+  color: white;
+  border: none;
+  border-radius: 26px;
+  padding: 14px 25px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 640px;
+} 
